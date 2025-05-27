@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode & PyCharm settings
+.vscode/
+.idea/
+
+# macOS & Linux system files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Model checkpoints (PyTorch)
+*.pth
+
+# Output folders (intermediate or generated)
+outputs/
+models/
+data/processed/train/
+data/processed/test/

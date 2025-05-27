@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision>=0.15
+opencv-python
+numpy
+pillow
+matplotlib
+seaborn
+scikit-learn
+tqdm
